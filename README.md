@@ -531,6 +531,4 @@ override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) 
 - [拾取坐标系统](https://api.map.baidu.com/lbsapi/getpoint/index.html)
 
 
-
-​                                                                                                                                                             撰写人：袁培凯
-
+                                                                                                                                                          
